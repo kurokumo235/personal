@@ -1,0 +1,40 @@
+html{
+    font-family:"微軟正黑體";
+}
+body{
+	background-image: url("../images/bg.jpg");
+	background-attachment:scroll;
+	background-repeat: repeat;
+	background-size:100%;
+}
+nav{
+	font-family: "標楷體";
+	font-size: 20px;
+	width: 70%;
+	height: 88px;
+	background: radial-gradient(circle, #6C6C6C, #4F4F4F);
+	color: white;
+}
+div.a{
+	width: 12%;
+	height: 88px;
+	float: right;
+	text-align: center;
+	line-height:40px;
+}
+div.a:hover{
+	background-color:#FFD9EC;
+	color: black; 
+}
+#logo img{
+	float: left;
+	width:7.3%;
+	margin-left: 50px;
+}
+a{
+    font-size: 24px;
+    color:white;
+}
+img.ban{
+	width: 70%;
+}
